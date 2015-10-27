@@ -13,7 +13,7 @@ Map<String, ?> tokenMap = new HashMap<>();
 String twitchToken = "{twitchToken}";
 tokenMap.put("access_token", twitchToken);
 
-// synchronious
+// Synchronous
 ParseUser.become(ParseCloud.callFunction("signInWithTwitch", tokenMap));
 
 // RxParse
