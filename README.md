@@ -1,5 +1,14 @@
 # Twitch for Parse Cloud
 
+[![Docker Pulls](https://img.shields.io/docker/pulls/yongjhih/parse-cloud-code.svg)](https://hub.docker.com/r/yongjhih/parse-cloud-code/)
+[![Docker Stars](https://img.shields.io/docker/stars/yongjhih/parse-cloud-code.svg)](https://hub.docker.com/r/yongjhih/parse-cloud-code/)
+[![Docker Size](https://img.shields.io/imagelayers/image-size/yongjhih/parse-cloud-code/latest.svg)](https://imagelayers.io/?images=yongjhih/parse-cloud-code:latest)
+[![Docker Layers](https://img.shields.io/imagelayers/layers/yongjhih/parse-cloud-code/latest.svg)](https://imagelayers.io/?images=yongjhih/parse-cloud-code:latest)
+[![Docker Tag](https://img.shields.io/github/tag/yongjhih/parse-cloud-code.svg)](https://hub.docker.com/r/yongjhih/parse-cloud-code/tags/)
+[![License](https://img.shields.io/github/license/yongjhih/parse-cloud-code.svg)](https://github.com/yongjhih/parse-cloud-code/raw/master/LICENSE.txt)
+[![Travis CI](https://img.shields.io/travis/yongjhih/parse-cloud-code.svg)](https://travis-ci.org/yongjhih/parse-cloud-code)
+[![Gitter Chat](https://img.shields.io/gitter/room/yongjhih/parse-cloud-code.svg)](https://gitter.im/yongjhih/parse-cloud-code)
+
 ![](art/parse-twitch.png)
 
 Allow signInWithTwitch.
